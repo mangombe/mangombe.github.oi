@@ -3,7 +3,7 @@
 title: Moses T Angombe
 
 # Name pronunciation (optional)
-name_pronunciation: Moses T Angombe
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Moses
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher to be
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
