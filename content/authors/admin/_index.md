@@ -121,5 +121,5 @@ social:
 highlight_name: true
 ---
 
-My research approach integrates field observations, microstructure analysis, rock experiments, and geophysics to identify earthquake records within faults. I aim to understand the impact of stress changes and transient fluid pressure on fault slip and earthquake cycles. Additionally, I collaborate closely with seismologists in our mission to uncover earthquake triggers and new active faults.
+My research integrates field observations, microstructure analysis, rock experiments, and geophysics to identify earthquake records within faults. I aim to understand the impact of stress changes and transient fluid pressure on fault slip and earthquake cycles. Additionally, I collaborate closely with seismologists in our mission to uncover earthquake triggers and new active faults.
 {style="text-align: justify;"}
