@@ -42,10 +42,10 @@ education:
       year: 2024
     - course: MSc in Geology
       institution: Stellenbosch University
-      year: 2009
+      year: 2006
     - course: BSc.Hon in Geology
       institution: University of Namibia
-      year: 2008
+      year: 2013
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
