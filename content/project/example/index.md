@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: Co-seismic pore pressure
 summary: An example of using the in-built project page.
 tags:
   - Deep Learning

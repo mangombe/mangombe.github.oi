@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Moses T Angombe
+title: Moses Angombe
 
 # Name pronunciation (optional)
 name_pronunciation:
@@ -10,7 +10,7 @@ first_name: Moses
 last_name: Angombe
 
 # Status emoji
-status:
+status: Dr Moses Angombe
   icon: ☕️
 
 # Is this the primary user of the site?
@@ -21,7 +21,7 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: LakeHead University
+  - name: Lakehead University
     url: https://www.lakeheadu.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,10 +29,10 @@ bio: Fault rocks
 
 # Interests to show in About widget
 interests:
-  - Field Geology
-  - Earthquake Geology
-  - Rock Mechanics
-  - Structural Controls on Critical Metals
+  - Field geology
+  - Earthquake geology
+  - Rock mechanics
+  - Structural controls on critical metal deposits
 
 # Education to show in About widget
 education:
