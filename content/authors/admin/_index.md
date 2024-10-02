@@ -38,13 +38,13 @@ interests:
 education:
   courses:
     - course: PhD in Geology
-      institution: McGill University
+      institution: McGill University, Canada
       year: 2024
     - course: MSc in Geology
-      institution: Stellenbosch University
+      institution: Stellenbosch University, South Africa
       year: 2006
     - course: BSc.Hon in Geology
-      institution: University of Namibia
+      institution: University of Namibia, Namibia
       year: 2013
 
 # Skills
