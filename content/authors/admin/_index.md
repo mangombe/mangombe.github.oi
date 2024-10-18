@@ -37,7 +37,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Geology
+    - course: PhD in Structural Geology
       institution: McGill University, Canada
       year: 2024
     - course: MSc in Geology
@@ -121,5 +121,5 @@ social:
 highlight_name: true
 ---
 
-My research integrates field observations, microstructure analysis, rock experiments, and geophysics to identify earthquake records within faults. I aim to understand the impact of stress changes and transient fluid pressure on fault slip and earthquake cycles. Additionally, I collaborate closely with seismologists in our mission to discover earthquake triggers and novel active faults.
+My research integrates field macro to micro-scale observations, rock experiments, and geophysics to identify earthquake records within faults. I aim to understand the impact of stress changes and transient fluid pressure on fault slip, earthquake cycles and concentration of critical metal ore deposits.
 {style="text-align: justify;"}
